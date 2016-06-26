@@ -10,7 +10,7 @@ A live demo you can see in this page :
 <a href="http://www.dasaki.gr/2016/06/20/try_angular2_pluginv01/" target="_blank">Demo of Angular 2 Coder Plugin</a>
 <br><br>
 A small tutorial you can see <a href="https://youtu.be/xxZIuXj6imk" target="_blank">here</a><br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/xxZIuXj6imk
+<a href="http://www.youtube.com/watch?feature=player_embedded&v='https://youtu.be/xxZIuXj6imk'
 " target="_blank"><img src="https://i.ytimg.com/vi/xxZIuXj6imk/default.jpg" 
 alt="Angular 2 coder Tutorial" width="240" height="180" border="10" /></a>
 
